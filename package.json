@@ -1,0 +1,30 @@
+{
+  "name": "gulp-markoc",
+  "version": "1.0.0",
+  "description": "Gulp plugin for compiling Marko templates",
+  "main": "index.js",
+  "engines": {
+    "node": "~4.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: we don't have tests yet\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamboer/gulp-markoc.git"
+  },
+  "keywords": [
+    "gulp plugin",
+    "marko",
+    "compile"
+  ],
+  "author": {
+    "name": "LV DADA"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "marko": "^2.8.4",
+    "through2": "^2.0.1"
+  }
+}
