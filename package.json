@@ -1,6 +1,6 @@
 {
   "name": "gulp-markoc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gulp plugin for compiling Marko templates",
   "main": "index.js",
   "engines": {
@@ -24,7 +24,7 @@
   "license": "MIT",
   "dependencies": {
     "gulp-util": "^3.0.7",
-    "marko": "^2.8.4",
+    "marko": "^3.1.6",
     "through2": "^2.0.1"
   }
 }
